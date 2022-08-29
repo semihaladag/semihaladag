@@ -22,8 +22,10 @@
 💻 I am a IOT C# Developer
 📚 I have a Associate Degree in Computer Programming
 📝 I have interest in Cyber Security
-🔭 I am developing a project with C# in my internship.
+🔭 I develop projects with Python and C#.
+🌱 I am currently learning IOT.
+🌟 Main languages: Python, C#.
+🎵 Love metal, lofi, jazz and soft music
 </pre>
-
 
 
