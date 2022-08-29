@@ -38,4 +38,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px">
