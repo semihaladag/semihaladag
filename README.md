@@ -17,10 +17,7 @@
 - <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/gimp.png" width=16> <a href="https://getpaint.net">**Gimp**</a> for image manipulation
 - <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width=16> linux I highly prefer Arch. but, sometimes you can rely on debiun. so, **PopsOs** by (System76)
 
-- 🌱 I’m currently learning more about **Reactjs(Nextjs)**.
-- 👯 I’m looking to collaborate on [github](https://github.com/DSDarkMark/project_short "DSmark Project").
-- 🤔 I’m looking for help with Nextjs documentation.
-- 💬 Ask me about web Development or any tech-related stuff.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost time to watch **anime**.
-
+💻 I am a IOT C# Developer
+📚 I have a Associate Degree in Computer Programming
+📝 I have interest in Cyber Security
+🔭 I am developing a project with C# in my internship.
